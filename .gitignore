@@ -1,0 +1,7 @@
+out/
+transcripts.tar.gz
+telegram-session.json
+system-prompt.txt
+cli/
+*.log
+*.db
