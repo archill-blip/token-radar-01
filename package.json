@@ -1,0 +1,9 @@
+{
+  "name": "token-radar-01",
+  "version": "1.0.0",
+  "description": "Token Launch Radar - Build the best token launch radar",
+  "type": "module",
+  "main": "main.ts",
+  "license": "MIT",
+  "engines": { "node": ">=22.18.0" }
+}
